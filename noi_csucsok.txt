@@ -1,0 +1,31 @@
+név	versenyszám	nemzet
+Katerína Sztefanídi	rúdugrás	Görögország
+Tori Bowie	100 m	Egyesült Államok
+Dafne Schippers	200 m	Hollandia
+Phyllis Francis	400 m	Egyesült Államok
+Caster Semenya	800 m	Dél-afrikai Köztársaság
+Almaz Ayana	10 000 m	Etiópia
+Emma Coburn	3000 m akadály	Egyesült Államok
+Yang Jiayu	20 km gyaloglás	Kína
+In?s Henriques	50 km gyaloglás	Portugália
+Julija Levcsenko	magasugrás	Ukrajna
+Darja Klisina	távolugrás	ANA
+Caterine Ibargüen	hármasugrás	Kolumbia
+Li Lingwei	gerelyhajítás	Kína
+Marie-Josée Ta Lou	100 m	Elefántcsontpart
+Marie-Josée Ta Lou	200 m	Elefántcsontpart
+Salwa Eid Naser	400 m	Bahrein
+Almaz Ayana	5000 m	Etiópia
+Tirunesh Dibaba	10 000 m	Etiópia
+Dawn Harper-Nelson	100 m gát	Egyesült Államok
+Courtney Frerichs	3000 m akadály	Egyesült Államok
+Lupita González	20 km gyaloglás	Mexikó
+Hang Yin	50 km gyaloglás	Kína
+Kamila Lićwinko	magasugrás	Lengyelország
+Olga Ripakova	hármasugrás	Kazahsztán
+Robeilys Peinado	rúdugrás	Venezuela
+Mélina Robert-Michon	diszkoszvetés	Franciaország
+Agnes Jebet Tirop	10 000 m	Kenya
+Ristananna Tracey	400 m gát	Jamaica
+Antonella Palmisano	20 km gyaloglás	Olaszország
+Shuqing Yang	50 km gyaloglás	Kína
